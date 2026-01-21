@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Self-study/远程部署web教程.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "远程部署web教程"
             }
           }
         ]
@@ -83,6 +87,7 @@
       {
         "id": "805bdf650acbec39",
         "type": "tabs",
+        "dimension": 58.174904942965775,
         "children": [
           {
             "id": "f9e92368b2bef6c5",
@@ -175,6 +180,23 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "f54abc0996f34e35",
+        "type": "tabs",
+        "dimension": 41.825095057034225,
+        "children": [
+          {
+            "id": "3ffd72ce335bedf4",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,13 +217,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-memos:Thino": false,
       "obsidian-rich-links:Rich Links": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "2026-01-21.md",
+    "Self-study/远程部署web教程.md",
+    "Self-study/obsidian远端同步步骤.md",
     "Self-study/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "Self-study/obsidian设置报告.md",
     "copilot/copilot-conversations/hello@20260121_120015.md",
@@ -223,13 +248,10 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Self-study/obsidian远端同步步骤.md",
     "Self-study/GeminiCLI部署.md",
     "Self-study/Antigravity：Agent terminated due to error.md",
-    "Self-study/远程部署web教程.md",
     "Self-study/mac下载antigravity.md",
     "Self-study/sideloadly安裝ios 嗶咔IPA.md",
-    "2026-01-21.md",
     "未命名.canvas",
     "未命名.base",
     "Self-study",
