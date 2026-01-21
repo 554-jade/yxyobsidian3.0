@@ -11,14 +11,13 @@
             "id": "905d0c771c64fee8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
-                "mode": "source",
-                "source": false
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
               },
-              "icon": "lucide-file",
-              "title": "教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心"
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           }
         ]
@@ -54,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +117,7 @@
               "title": "mini-calendar-default"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-study/obsidian远端同步步骤.md",
+                "file": "TaskNotes/Views/kanban-default.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "obsidian远端同步步骤 的大纲"
+              "title": "kanban-default 的大纲"
             }
           },
           {
@@ -262,6 +260,12 @@
   },
   "active": "905d0c771c64fee8",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/创建物流看板.md",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Tasks/2026大二美赛准备.md",
+    "TaskNotes/Tasks/准备了解比赛形式.md",
+    "TaskNotes/Tasks/创建单品看板.md",
+    "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "Diary/2026-01-21.md",
     "2026-01-21.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
@@ -269,15 +273,10 @@
     "TaskNotes/Tasks/注册microsoft365.md",
     "Diary",
     "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Tasks/创建单品看板.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Tasks/2026大二美赛准备.md",
     "TaskNotes/Tasks/2026大二美赛开赛.md",
-    "TaskNotes/Tasks/创建物流看板.md",
-    "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "TaskNotes/Tasks",
     "TaskNotes/Views",
     "TaskNotes",
@@ -296,7 +295,6 @@
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "未命名.canvas"
   ]
 }

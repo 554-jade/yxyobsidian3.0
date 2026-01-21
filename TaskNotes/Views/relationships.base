@@ -116,3 +116,5 @@ views:
       - file.name
       - recurrence
       - complete_instances
+  - type: table
+    name: 视图
