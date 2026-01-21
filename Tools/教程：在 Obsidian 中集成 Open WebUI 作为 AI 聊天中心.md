@@ -1,16 +1,7 @@
 
 ## 目标
-
-  
-
 如何通过 Docker 在本地运行 **Open WebUI**，并使用 **Custom Frames** 插件将其无缝嵌入到 Obsidian 的侧边栏中。最终目标是在 Obsidian 内部创建一个功能强大、可连接多种 AI 模型（云端 API 或本地 LLM）的统一聊天界面，从而极大地提升工作效率，减少应用切换。
-
-  
-
 ## 前提条件
-
-  
-
 1. **[Obsidian](https://obsidian.md/)**：已安装并正常运行。
 
 2. **[Docker Desktop](https://www.docker.com/products/docker-desktop/)**：已在您的电脑上安装并成功启动。这是运行 Open WebUI 最简单、最可靠的方式。
