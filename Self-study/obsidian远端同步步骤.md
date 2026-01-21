@@ -19,3 +19,8 @@ https://www.youtube.com/watch?v=ApkO3iq1OmE
 功能二：使得capture的图片可以在vscode或者直接在仓库中使用
 功能三：使导出的形式更加方便
 功能四：和ios的同步，使用onedrive
+
+
+未来规划
+https://www.youtube.com/watch?v=wclGdxI1-UY
+看一下minlo有没有同步更方便，但是我现在懒得看了呵呵呵
