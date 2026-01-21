@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "obsidian远端同步步骤"
             }
+          },
+          {
+            "id": "b3026b960b608ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-study/obsidian设置报告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian设置报告"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,20 +202,22 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-memos:Thino": false
+      "obsidian-memos:Thino": false,
+      "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "db183fb9fd17d37d",
+  "active": "b3026b960b608ea4",
   "lastOpenFiles": [
-    "Self-study/mac下载antigravity.md",
     "Self-study/obsidian远端同步步骤.md",
+    "Self-study/obsidian设置报告.md",
+    "Self-study/GeminiCLI部署.md",
+    "Self-study/Antigravity：Agent terminated due to error.md",
+    "Self-study/远程部署web教程.md",
+    "Self-study/mac下载antigravity.md",
     "Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "2026-01-21.md",
     "未命名.canvas",
     "未命名.base",
-    "Self-study/Antigravity：Agent terminated due to error.md",
-    "Self-study/GeminiCLI部署.md",
-    "Self-study/远程部署web教程.md",
     "Self-study",
     "Self-information"
   ]
