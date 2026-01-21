@@ -11,10 +11,13 @@
             "id": "905d0c771c64fee8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/tasks-default.base",
+                "viewName": "All Tasks"
+              },
+              "icon": "tasknotes-simple",
+              "title": "tasks-default"
             }
           }
         ]
@@ -98,9 +101,22 @@
               "icon": "tasknotes-simple",
               "title": "tasks-default"
             }
+          },
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/mini-calendar-default.base",
+                "viewName": "Due"
+              },
+              "icon": "tasknotes-simple",
+              "title": "mini-calendar-default"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,7 +129,7 @@
       {
         "id": "805bdf650acbec39",
         "type": "tabs",
-        "dimension": 58.174904942965775,
+        "dimension": 66.44444444444444,
         "children": [
           {
             "id": "f9e92368b2bef6c5",
@@ -195,11 +211,9 @@
           {
             "id": "55897c94c35b257f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "pinned": true,
               "icon": "message-square",
               "title": "Copilot"
             }
@@ -210,7 +224,7 @@
       {
         "id": "f54abc0996f34e35",
         "type": "tabs",
-        "dimension": 41.825095057034225,
+        "dimension": 33.55555555555556,
         "children": [
           {
             "id": "3ffd72ce335bedf4",
@@ -221,22 +235,8 @@
               "icon": "Memos",
               "title": "Thino"
             }
-          },
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/mini-calendar-default.base",
-                "viewName": "Due"
-              },
-              "icon": "tasknotes-simple",
-              "title": "mini-calendar-default"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,6 +273,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Diary",
+    "Diary/2026-01-21.md",
+    "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/创建单品看板.md",
     "TaskNotes/Views/tasks-default.base",
@@ -282,13 +285,11 @@
     "TaskNotes/Tasks/2026大二美赛准备.md",
     "TaskNotes/Tasks/2026大二美赛开赛.md",
     "TaskNotes/Tasks/创建物流看板.md",
-    "TaskNotes/Views/mini-calendar-default.base",
     "Self-study/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "TaskNotes/Tasks",
     "TaskNotes/Views",
     "TaskNotes",
     "Self-study/sideloadly安裝ios 嗶咔IPA.md",
-    "2026-01-21.md",
     "Self-study/远程部署web教程.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Self-study/obsidian远端同步步骤.md",
