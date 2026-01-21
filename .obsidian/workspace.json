@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "TaskNotes/Views/calendar-default.base",
-                "viewName": "Calendar"
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
               },
               "icon": "tasknotes-simple",
-              "title": "calendar-default"
+              "title": "kanban-default"
             }
           }
         ]
@@ -233,6 +233,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Tasks/创建物流看板.md",
+    "TaskNotes/Tasks/创建单品看板.md",
     "TaskNotes/Views/kanban-default.base",
     "Self-study/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "TaskNotes/Tasks/美赛.md",
@@ -265,8 +267,6 @@
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "Self-study/GeminiCLI部署.md",
-    "Self-study/Antigravity：Agent terminated due to error.md",
     "未命名.canvas"
   ]
 }
