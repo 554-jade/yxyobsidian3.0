@@ -276,6 +276,10 @@
   },
   "active": "f2ceb8d6aa33d018",
   "lastOpenFiles": [
+    "assets/创建物流看板/file-20260121173932395.png",
+    "assets/创建物流看板/file-20260121173924244.png",
+    "assets/创建物流看板",
+    "assets",
     "TaskNotes/Tasks/创建物流看板.md",
     "创建物流看板.md",
     "Project",
@@ -295,8 +299,6 @@
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Tasks/2026大二美赛开赛.md",
-    "TaskNotes/Tasks",
-    "TaskNotes/Views",
     "Tools/sideloadly安裝ios 嗶咔IPA.md",
     "Tools/远程部署web教程.md",
     "Tools/obsidian远端同步步骤.md",
@@ -311,7 +313,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "未命名.canvas"
   ]
 }

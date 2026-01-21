@@ -439,15 +439,15 @@
     "isRunning": true,
     "timeRemaining": 1500,
     "currentSession": {
-      "id": "1768986810491",
+      "id": "1768988428377",
       "taskPath": "TaskNotes/Tasks/创建物流看板.md",
-      "startTime": "2026-01-21T17:13:30.491+08:00",
+      "startTime": "2026-01-21T17:40:28.377+08:00",
       "plannedDuration": 25,
       "type": "work",
       "completed": false,
       "activePeriods": [
         {
-          "startTime": "2026-01-21T17:13:30.491+08:00"
+          "startTime": "2026-01-21T17:40:28.377+08:00"
         }
       ]
     }
@@ -481,6 +481,35 @@
         {
           "startTime": "2026-01-21T17:13:23.029+08:00",
           "endTime": "2026-01-21T17:13:27.098+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1768986810491",
+      "startTime": "2026-01-21T17:13:30.491+08:00",
+      "endTime": "2026-01-21T17:38:30.498+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/创建物流看板.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-21T17:13:30.491+08:00",
+          "endTime": "2026-01-21T17:38:30.498+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1768988311546",
+      "startTime": "2026-01-21T17:38:31.546+08:00",
+      "endTime": "2026-01-21T17:40:23.159+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-21T17:38:31.546+08:00",
+          "endTime": "2026-01-21T17:40:23.159+08:00"
         }
       ]
     }
