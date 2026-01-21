@@ -179,8 +179,19 @@
               "icon": "lucide-list",
               "title": "obsidian远端同步步骤 的大纲"
             }
+          },
+          {
+            "id": "55897c94c35b257f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,11 +214,29 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-memos:Thino": false,
-      "obsidian-rich-links:Rich Links": false
+      "obsidian-rich-links:Rich Links": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b3026b960b608ea4",
+  "active": "55897c94c35b257f",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Self-study/obsidian远端同步步骤.md",
     "Self-study/obsidian设置报告.md",
     "Self-study/GeminiCLI部署.md",
