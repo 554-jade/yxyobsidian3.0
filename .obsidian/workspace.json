@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
+                "file": "创建物流看板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Translate to Chinese 的大纲"
+              "title": "创建物流看板 的大纲"
             }
           },
           {
@@ -274,8 +274,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ffd72ce335bedf4",
+  "active": "792b3334c3a125b5",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "创建物流看板.md",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
@@ -290,7 +291,6 @@
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "Diary/2026-01-21.md",
     "2026-01-21.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Tasks/注册microsoft365.md",
     "Diary",
