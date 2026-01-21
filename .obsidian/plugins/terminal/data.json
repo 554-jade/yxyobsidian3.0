@@ -38,7 +38,7 @@
     },
     "darwinIntegratedDefault": {
       "args": [
-        "--login"
+        "-l\n"
       ],
       "executable": "/bin/zsh",
       "followTheme": true,
