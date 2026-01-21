@@ -4,20 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "5a175cbc044b4578",
-        "type": "tabs",
+        "id": "f97d73620b18a97b",
+        "type": "split",
         "children": [
           {
-            "id": "9ba4b4af97b50b84",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
+            "id": "43e2ea7022d56f24",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e414846edc0d9201",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          },
+          {
+            "id": "82ce2bf80d72397b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ebbd08ce469c6225",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/yixinyue/Documents/GitHub/yxyobsidian3.0",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "终端：zsh"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -173,9 +228,23 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "9ba4b4af97b50b84",
-  "lastOpenFiles": []
+  "active": "66a66efed0eaba23",
+  "lastOpenFiles": [
+    "Self-study/远程部署web教程.md",
+    "Self-study/sideloadly安裝ios 嗶咔IPA.md",
+    "Self-study/obsidian远端同步步骤.md",
+    "Self-study/mac下载antigravity.md",
+    "Self-study/GeminiCLI部署.md",
+    "Self-study/Antigravity：Agent terminated due to error.md",
+    "Self-study",
+    "Self-information"
+  ]
 }
