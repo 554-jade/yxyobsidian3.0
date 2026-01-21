@@ -32,6 +32,7 @@
       {
         "id": "9dc0f69197048b44",
         "type": "tabs",
+        "dimension": 50.116550116550115,
         "children": [
           {
             "id": "66a66efed0eaba23",
@@ -78,6 +79,7 @@
       {
         "id": "52212a607d9d20ab",
         "type": "tabs",
+        "dimension": 49.883449883449885,
         "children": [
           {
             "id": "792b3334c3a125b5",
@@ -115,8 +117,7 @@
               "title": "mini-calendar-default"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
       {
         "id": "805bdf650acbec39",
         "type": "tabs",
-        "dimension": 66.44444444444444,
+        "dimension": 58.77777777777777,
         "children": [
           {
             "id": "f9e92368b2bef6c5",
@@ -224,7 +225,7 @@
       {
         "id": "f54abc0996f34e35",
         "type": "tabs",
-        "dimension": 33.55555555555556,
+        "dimension": 41.22222222222222,
         "children": [
           {
             "id": "3ffd72ce335bedf4",
@@ -274,6 +275,7 @@
   "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
     "TaskNotes/Views/tasks-default.base",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Diary",
     "Diary/2026-01-21.md",
     "TaskNotes/Views/mini-calendar-default.base",
@@ -291,11 +293,9 @@
     "TaskNotes",
     "Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "Self-study/远程部署web教程.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Self-study/obsidian远端同步步骤.md",
     "Self-study/obsidian设置报告.md",
     "copilot/copilot-conversations/hello@20260121_120015.md",
-    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
