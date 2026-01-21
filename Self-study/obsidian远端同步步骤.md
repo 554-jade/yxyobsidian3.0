@@ -14,8 +14,8 @@
 		</p>
 	</div>
 </a></div>
-
+https://www.youtube.com/watch?v=ApkO3iq1OmE
 功能一：通过git远程同步(远程同步到github上，保险)
 功能二：使得capture的图片可以在vscode或者直接在仓库中使用
 功能三：使导出的形式更加方便
-功能四：
+功能四：和ios的同步，使用onedrive
