@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创建物流看板.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "创建物流看板 的大纲"
+              "title": "Translate to Chinese 的大纲"
             }
           },
           {
@@ -274,14 +274,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ceb8d6aa33d018",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "创建物流看板.md",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
     "assets/创建物流看板",
     "assets",
     "TaskNotes/Tasks/创建物流看板.md",
-    "创建物流看板.md",
     "Project",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/2026大二美赛准备.md",
