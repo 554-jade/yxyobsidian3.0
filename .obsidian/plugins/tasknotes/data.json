@@ -30,7 +30,7 @@
   "calendarViewSettings": {
     "defaultView": "dayGridMonth",
     "customDayCount": 3,
-    "slotDuration": "00:30:00",
+    "slotDuration": "00:15:00",
     "slotMinTime": "00:00:00",
     "slotMaxTime": "24:00:00",
     "scrollTime": "08:00:00",
@@ -42,10 +42,10 @@
     "defaultShowDue": true,
     "defaultShowDueWhenScheduled": true,
     "defaultShowScheduledToDueSpan": false,
-    "defaultShowTimeEntries": false,
+    "defaultShowTimeEntries": true,
     "defaultShowRecurring": true,
     "defaultShowICSEvents": true,
-    "enableTimeblocking": false,
+    "enableTimeblocking": true,
     "defaultShowTimeblocks": true,
     "nowIndicator": true,
     "selectMirror": true,
@@ -151,32 +151,22 @@
   },
   "customStatuses": [
     {
-      "id": "none",
-      "value": "none",
-      "label": "None",
-      "color": "#cccccc",
+      "id": "open",
+      "value": "to-do",
+      "label": "To-Do",
+      "color": "#f00a0a",
       "isCompleted": false,
       "order": 0,
       "autoArchive": false,
       "autoArchiveDelay": 5
     },
     {
-      "id": "open",
-      "value": "open",
-      "label": "Open",
-      "color": "#808080",
-      "isCompleted": false,
-      "order": 1,
-      "autoArchive": false,
-      "autoArchiveDelay": 5
-    },
-    {
       "id": "in-progress",
-      "value": "in-progress",
-      "label": "In progress",
+      "value": "doing",
+      "label": "Doing",
       "color": "#0066cc",
       "isCompleted": false,
-      "order": 2,
+      "order": 1,
       "autoArchive": false,
       "autoArchiveDelay": 5
     },
@@ -186,7 +176,7 @@
       "label": "Done",
       "color": "#00aa00",
       "isCompleted": true,
-      "order": 3,
+      "order": 2,
       "autoArchive": false,
       "autoArchiveDelay": 5
     }
@@ -223,7 +213,7 @@
   ],
   "recurrenceMigrated": false,
   "showReleaseNotesOnUpdate": true,
-  "showTrackedTasksInStatusBar": false,
+  "showTrackedTasksInStatusBar": true,
   "autoStopTimeTrackingOnComplete": true,
   "autoStopTimeTrackingNotification": false,
   "showRelationships": true,
@@ -311,5 +301,138 @@
     "includeObsidianLink": true,
     "defaultReminderMinutes": null
   },
-  "lastSeenVersion": "4.3.0"
+  "lastSeenVersion": "4.3.0",
+  "modalFieldsConfig": {
+    "version": 1,
+    "fields": [
+      {
+        "id": "title",
+        "fieldType": "core",
+        "group": "basic",
+        "displayName": "Title",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 0,
+        "enabled": true,
+        "required": true
+      },
+      {
+        "id": "details",
+        "fieldType": "core",
+        "group": "basic",
+        "displayName": "Details",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "contexts",
+        "fieldType": "core",
+        "group": "metadata",
+        "displayName": "Contexts",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 0,
+        "enabled": true
+      },
+      {
+        "id": "tags",
+        "fieldType": "core",
+        "group": "metadata",
+        "displayName": "Tags",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "time-estimate",
+        "fieldType": "core",
+        "group": "metadata",
+        "displayName": "Time Estimate",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 2,
+        "enabled": true
+      },
+      {
+        "id": "projects",
+        "fieldType": "organization",
+        "group": "organization",
+        "displayName": "Projects",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 0,
+        "enabled": true
+      },
+      {
+        "id": "subtasks",
+        "fieldType": "organization",
+        "group": "organization",
+        "displayName": "Subtasks",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "blocked-by",
+        "fieldType": "dependency",
+        "group": "dependencies",
+        "displayName": "Blocked By",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 0,
+        "enabled": true
+      },
+      {
+        "id": "blocking",
+        "fieldType": "dependency",
+        "group": "dependencies",
+        "displayName": "Blocking",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 1,
+        "enabled": true
+      }
+    ],
+    "groups": [
+      {
+        "id": "basic",
+        "displayName": "Basic Information",
+        "order": 0,
+        "collapsible": false,
+        "defaultCollapsed": false
+      },
+      {
+        "id": "metadata",
+        "displayName": "Metadata",
+        "order": 1,
+        "collapsible": true,
+        "defaultCollapsed": false
+      },
+      {
+        "id": "organization",
+        "displayName": "Organization",
+        "order": 2,
+        "collapsible": true,
+        "defaultCollapsed": false
+      },
+      {
+        "id": "dependencies",
+        "displayName": "Dependencies",
+        "order": 3,
+        "collapsible": true,
+        "defaultCollapsed": false
+      },
+      {
+        "id": "custom",
+        "displayName": "Custom Fields",
+        "order": 4,
+        "collapsible": true,
+        "defaultCollapsed": false
+      }
+    ]
+  }
 }
