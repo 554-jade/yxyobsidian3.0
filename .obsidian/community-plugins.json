@@ -3,7 +3,6 @@
   "obsidian-custom-attachment-location",
   "terminal",
   "obsidian-excalidraw-plugin",
-  "soundscapes",
   "homepage",
   "editing-toolbar",
   "obsidian-enhancing-export",
@@ -11,5 +10,6 @@
   "obsidian-memos",
   "obsidian-style-settings",
   "obsidian-rich-links",
-  "copilot"
+  "copilot",
+  "soundscapes"
 ]
