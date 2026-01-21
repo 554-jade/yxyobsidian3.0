@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "TaskNotes/Views/calendar-default.base",
+                "viewName": "Calendar"
               },
               "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "title": "calendar-default"
             }
           }
         ]
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,14 +232,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
     "Self-study/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
-    "TaskNotes/Tasks/美赛 ，.md",
+    "TaskNotes/Tasks/美赛.md",
     "TaskNotes/Tasks",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views",
     "TaskNotes",
@@ -266,7 +267,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "Self-study/GeminiCLI部署.md",
     "Self-study/Antigravity：Agent terminated due to error.md",
-    "Self-study/mac下载antigravity.md",
     "未命名.canvas"
   ]
 }
