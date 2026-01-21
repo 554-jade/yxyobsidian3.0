@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "Self-study/obsidian设置报告.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "obsidian设置报告"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-study/obsidian远端同步步骤.md",
+                "file": "Self-study/obsidian设置报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "obsidian远端同步步骤 的反向链接列表"
+              "title": "obsidian设置报告 的反向链接列表"
             }
           },
           {
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,6 +219,8 @@
   },
   "active": "55897c94c35b257f",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/hello@20260121_120015.md",
+    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
