@@ -273,18 +273,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ceb8d6aa33d018",
+  "active": "66a66efed0eaba23",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "Diary/2026-01-22.md",
+    "TaskNotes/Views/kanban-default.base",
     "创建物流看板.md",
     "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
     "assets/创建物流看板",
     "assets",
     "TaskNotes/Tasks/创建物流看板.md",
     "Project",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/2026大二美赛准备.md",
     "TaskNotes/Tasks/准备了解比赛形式.md",
     "TaskNotes/Tasks/创建单品看板.md",
@@ -312,7 +313,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "未命名.canvas"
   ]
 }
