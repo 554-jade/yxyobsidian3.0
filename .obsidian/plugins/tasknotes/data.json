@@ -437,7 +437,7 @@
   },
   "pomodoroState": {
     "isRunning": false,
-    "timeRemaining": 1500
+    "timeRemaining": 3600
   },
   "lastPomodoroDate": "2026-01-21",
   "lastSelectedTaskPath": "TaskNotes/Tasks/创建物流看板.md",

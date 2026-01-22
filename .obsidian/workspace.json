@@ -27,11 +27,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "TaskNotes/Views/calendar-default.base",
+                "viewName": "Calendar"
               },
               "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "title": "calendar-default"
             }
           },
           {
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
+                "file": "TaskNotes/Views/calendar-default.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "kanban-default 的大纲"
+              "title": "calendar-default 的大纲"
             }
           },
           {
@@ -289,9 +289,12 @@
   },
   "active": "f2ceb8d6aa33d018",
   "lastOpenFiles": [
+    "2026-02-04.md",
+    "TaskNotes/Tasks/创建物流看板.md",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
     "Playlist.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "TaskNotes/Views/kanban-default.base",
     "Diary/2026-01-22.md",
     "创建物流看板.md",
     "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
@@ -299,7 +302,6 @@
     "assets/创建物流看板/file-20260121173924244.png",
     "assets/创建物流看板",
     "assets",
-    "TaskNotes/Tasks/创建物流看板.md",
     "Project",
     "TaskNotes/Tasks/2026大二美赛准备.md",
     "TaskNotes/Tasks/准备了解比赛形式.md",
@@ -313,7 +315,6 @@
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Tasks/2026大二美赛开赛.md",
     "Tools/sideloadly安裝ios 嗶咔IPA.md",
     "Tools/远程部署web教程.md",
@@ -325,7 +326,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "未命名.canvas"
   ]
 }
