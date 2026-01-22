@@ -437,21 +437,16 @@
   },
   "pomodoroState": {
     "isRunning": true,
-    "timeRemaining": 1535,
+    "timeRemaining": 300,
     "currentSession": {
-      "id": "1769044793801",
-      "taskPath": "TaskNotes/Tasks/注册microsoft365.md",
-      "startTime": "2026-01-22T09:19:53.801+08:00",
-      "plannedDuration": 60,
-      "type": "work",
+      "id": "1769048590649",
+      "startTime": "2026-01-22T10:23:10.649+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
       "completed": false,
       "activePeriods": [
         {
-          "startTime": "2026-01-22T09:19:53.801+08:00",
-          "endTime": "2026-01-22T09:54:19.326+08:00"
-        },
-        {
-          "startTime": "2026-01-22T09:57:34.387+08:00"
+          "startTime": "2026-01-22T10:23:10.649+08:00"
         }
       ]
     }
@@ -543,6 +538,25 @@
         {
           "startTime": "2026-01-21T18:05:29.686+08:00",
           "endTime": "2026-01-21T18:10:17.655+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1769044793801",
+      "startTime": "2026-01-22T09:19:53.801+08:00",
+      "endTime": "2026-01-22T10:23:09.413+08:00",
+      "plannedDuration": 60,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/注册microsoft365.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-22T09:19:53.801+08:00",
+          "endTime": "2026-01-22T09:54:19.326+08:00"
+        },
+        {
+          "startTime": "2026-01-22T09:57:34.387+08:00",
+          "endTime": "2026-01-22T10:23:09.416+08:00"
         }
       ]
     }
