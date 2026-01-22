@@ -33,8 +33,7 @@
               "title": "2025年三天拿下数学建模美赛M奖【公众号：数模加油站】"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025年三天拿下数学建模美赛M奖【公众号：数模加油站】 的大纲"
+              "title": "Translate to Chinese 的大纲"
             }
           },
           {
@@ -272,24 +271,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "792b3334c3a125b5",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/创建物流看板.md",
+    "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
-    "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "Playlist.md",
     "Project/美赛/美赛AI速成.pdf",
     "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
     "Project/美赛/准备/美赛AI速成.pdf",
     "Project/美赛/准备",
     "Project/美赛/2026年美赛零基础备赛攻略速成.pdf",
-    "Project/美赛/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "2026-02-04.md",
     "未命名.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "TaskNotes/Tasks/创建物流看板.md",
     "Diary/2026-01-22.md",
     "创建物流看板.md",
     "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
