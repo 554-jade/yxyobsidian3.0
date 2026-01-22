@@ -25,14 +25,13 @@
             "id": "f2ceb8d6aa33d018",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "创建物流看板.md",
-                "mode": "source",
-                "source": false
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
               },
-              "icon": "lucide-file",
-              "title": "创建物流看板"
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           }
         ],
@@ -201,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创建物流看板.md",
+                "file": "TaskNotes/Views/kanban-default.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "创建物流看板 的大纲"
+              "title": "kanban-default 的大纲"
             }
           },
           {
@@ -274,10 +273,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "792b3334c3a125b5",
+  "active": "f2ceb8d6aa33d018",
   "lastOpenFiles": [
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "创建物流看板.md",
+    "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
     "assets/创建物流看板",

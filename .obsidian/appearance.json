@@ -1,5 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "#5c75f5",
-  "interfaceFontFamily": "New York"
+  "interfaceFontFamily": "New York",
+  "theme": "moonstone"
 }
