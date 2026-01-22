@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
+                "file": "TaskNotes/Views/kanban-default.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Translate to Chinese 的大纲"
+              "title": "kanban-default 的大纲"
             }
           },
           {
@@ -287,11 +287,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ffd72ce335bedf4",
+  "active": "f2ceb8d6aa33d018",
   "lastOpenFiles": [
     "Playlist.md",
-    "TaskNotes/Views/kanban-default.base",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "TaskNotes/Views/kanban-default.base",
     "Diary/2026-01-22.md",
     "创建物流看板.md",
     "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
