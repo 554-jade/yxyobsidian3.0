@@ -436,8 +436,21 @@
     ]
   },
   "pomodoroState": {
-    "isRunning": false,
-    "timeRemaining": 1500
+    "isRunning": true,
+    "timeRemaining": 900,
+    "currentSession": {
+      "id": "1769076956417",
+      "taskPath": "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
+      "startTime": "2026-01-22T18:15:56.417+08:00",
+      "plannedDuration": 15,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-22T18:15:56.417+08:00"
+        }
+      ]
+    }
   },
   "lastPomodoroDate": "2026-01-21",
   "lastSelectedTaskPath": "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TaskNotes/Tasks/创建物流看板.md",
+                "file": "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "创建物流看板"
+              "title": "理清楚看板的逻辑是什么"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaskNotes/Tasks/创建物流看板.md",
+                "file": "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "创建物流看板 的反向链接列表"
+              "title": "理清楚看板的逻辑是什么 的反向链接列表"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TaskNotes/Tasks/创建物流看板.md",
+                "file": "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "创建物流看板 的出链列表"
+              "title": "理清楚看板的逻辑是什么 的出链列表"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskNotes/Tasks/创建物流看板.md",
+                "file": "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "创建物流看板 的大纲"
+              "title": "理清楚看板的逻辑是什么 的大纲"
             }
           },
           {
@@ -213,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TaskNotes/Tasks/创建物流看板.md"
+                "file": "TaskNotes/Tasks/理清楚看板的逻辑是什么.md"
               },
               "icon": "lucide-info",
-              "title": "创建物流看板的笔记属性"
+              "title": "理清楚看板的逻辑是什么的笔记属性"
             }
           }
         ],
@@ -275,9 +275,10 @@
   },
   "active": "905d0c771c64fee8",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/创建单品看板.md",
+    "TaskNotes/Tasks/创建物流看板.md",
     "创建物流看板.md",
     "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
-    "TaskNotes/Tasks/创建物流看板.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
@@ -297,7 +298,6 @@
     "assets/创建物流看板/file-20260121173924244.png",
     "TaskNotes/Tasks/2026大二美赛准备.md",
     "TaskNotes/Tasks/准备了解比赛形式.md",
-    "TaskNotes/Tasks/创建单品看板.md",
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "Diary/2026-01-21.md",
     "2026-01-21.md",
