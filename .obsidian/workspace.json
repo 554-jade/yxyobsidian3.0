@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/美赛/美赛AI速成.pdf",
+                "file": "Playlist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "美赛AI速成 的大纲"
+              "title": "Playlist 的大纲"
             }
           },
           {
@@ -274,15 +274,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66a66efed0eaba23",
+  "active": "792b3334c3a125b5",
   "lastOpenFiles": [
+    "Project/美赛/美赛AI速成.pdf",
     "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
     "Project/美赛/准备/美赛AI速成.pdf",
     "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "Project/美赛/准备",
     "Project/美赛/2026年美赛零基础备赛攻略速成.pdf",
     "Project/美赛/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
-    "Project/美赛/美赛AI速成.pdf",
     "Playlist.md",
     "2026-02-04.md",
     "Project/美赛",

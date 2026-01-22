@@ -436,8 +436,21 @@
     ]
   },
   "pomodoroState": {
-    "isRunning": false,
-    "timeRemaining": 3600
+    "isRunning": true,
+    "timeRemaining": 3600,
+    "currentSession": {
+      "id": "1769064919697",
+      "taskPath": "TaskNotes/Tasks/创建物流看板.md",
+      "startTime": "2026-01-22T14:55:19.697+08:00",
+      "plannedDuration": 60,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-22T14:55:19.697+08:00"
+        }
+      ]
+    }
   },
   "lastPomodoroDate": "2026-01-21",
   "lastSelectedTaskPath": "TaskNotes/Tasks/创建物流看板.md",
