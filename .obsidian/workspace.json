@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275
   },
   "right": {
     "id": "686b6bf0de936634",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-study/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
+                "file": "TaskNotes/Tasks/创建物流看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心 的反向链接列表"
+              "title": "创建物流看板 的反向链接列表"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-study/obsidian远端同步步骤.md",
+                "file": "TaskNotes/Tasks/创建物流看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "obsidian远端同步步骤 的出链列表"
+              "title": "创建物流看板 的出链列表"
             }
           },
           {
@@ -198,23 +198,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
+                "file": "TaskNotes/Tasks/创建物流看板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Translate to Chinese 的大纲"
+              "title": "创建物流看板 的大纲"
             }
           },
           {
-            "id": "55897c94c35b257f",
+            "id": "bbf282a4b6364bd4",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "type": "file-properties",
+              "state": {
+                "file": "TaskNotes/Tasks/创建物流看板.md"
+              },
+              "icon": "lucide-info",
+              "title": "创建物流看板的笔记属性"
             }
           }
         ],
@@ -271,11 +273,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ffd72ce335bedf4",
+  "active": "905d0c771c64fee8",
   "lastOpenFiles": [
+    "创建物流看板.md",
+    "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "TaskNotes/Tasks/创建物流看板.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/relationships.base",
@@ -289,7 +292,6 @@
     "2026-02-04.md",
     "未命名.md",
     "Diary/2026-01-22.md",
-    "创建物流看板.md",
     "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
