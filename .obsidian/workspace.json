@@ -25,14 +25,12 @@
             "id": "f2ceb8d6aa33d018",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Playlist.md",
-                "mode": "source",
-                "source": false
+                "file": "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Playlist"
+              "icon": "lucide-file-text",
+              "title": "2025年三天拿下数学建模美赛M奖【公众号：数模加油站】"
             }
           }
         ],
@@ -201,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playlist.md",
+                "file": "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Playlist 的大纲"
+              "title": "2025年三天拿下数学建模美赛M奖【公众号：数模加油站】 的大纲"
             }
           },
           {
@@ -276,27 +274,27 @@
   },
   "active": "792b3334c3a125b5",
   "lastOpenFiles": [
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/tasks-default.base",
+    "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
+    "Playlist.md",
     "Project/美赛/美赛AI速成.pdf",
     "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
     "Project/美赛/准备/美赛AI速成.pdf",
-    "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "Project/美赛/准备",
     "Project/美赛/2026年美赛零基础备赛攻略速成.pdf",
     "Project/美赛/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
-    "Playlist.md",
     "2026-02-04.md",
-    "Project/美赛",
     "未命名.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Tasks/创建物流看板.md",
-    "TaskNotes/Views/kanban-default.base",
     "Diary/2026-01-22.md",
     "创建物流看板.md",
     "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
-    "assets/创建物流看板",
     "TaskNotes/Tasks/2026大二美赛准备.md",
     "TaskNotes/Tasks/准备了解比赛形式.md",
     "TaskNotes/Tasks/创建单品看板.md",

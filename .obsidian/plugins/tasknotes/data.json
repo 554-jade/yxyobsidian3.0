@@ -437,17 +437,16 @@
   },
   "pomodoroState": {
     "isRunning": true,
-    "timeRemaining": 3600,
+    "timeRemaining": 300,
     "currentSession": {
-      "id": "1769064919697",
-      "taskPath": "TaskNotes/Tasks/创建物流看板.md",
-      "startTime": "2026-01-22T14:55:19.697+08:00",
-      "plannedDuration": 60,
-      "type": "work",
+      "id": "1769068520997",
+      "startTime": "2026-01-22T15:55:20.997+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
       "completed": false,
       "activePeriods": [
         {
-          "startTime": "2026-01-22T14:55:19.697+08:00"
+          "startTime": "2026-01-22T15:55:20.997+08:00"
         }
       ]
     }
@@ -601,6 +600,21 @@
         {
           "startTime": "2026-01-22T14:00:50.894+08:00",
           "endTime": "2026-01-22T14:05:15.900+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1769064919697",
+      "startTime": "2026-01-22T14:55:19.697+08:00",
+      "endTime": "2026-01-22T15:55:19.705+08:00",
+      "plannedDuration": 60,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/创建物流看板.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-22T14:55:19.697+08:00",
+          "endTime": "2026-01-22T15:55:19.706+08:00"
         }
       ]
     }
