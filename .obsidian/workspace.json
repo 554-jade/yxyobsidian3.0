@@ -34,20 +34,6 @@
               "icon": "lucide-file",
               "title": "Playlist"
             }
-          },
-          {
-            "id": "bceeef763d4f86f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playlist.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Playlist"
-            }
           }
         ],
         "currentTab": 1
@@ -215,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
+                "file": "Project/美赛/美赛AI速成.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Translate to Chinese 的大纲"
+              "title": "美赛AI速成 的大纲"
             }
           },
           {
@@ -288,34 +274,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ffd72ce335bedf4",
+  "active": "66a66efed0eaba23",
   "lastOpenFiles": [
+    "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
+    "Project/美赛/准备/美赛AI速成.pdf",
+    "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
+    "Project/美赛/准备",
+    "Project/美赛/2026年美赛零基础备赛攻略速成.pdf",
+    "Project/美赛/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
+    "Project/美赛/美赛AI速成.pdf",
     "Playlist.md",
-    "TaskNotes/Views/calendar-default.base",
     "2026-02-04.md",
+    "Project/美赛",
+    "未命名.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Tasks/创建物流看板.md",
     "TaskNotes/Views/kanban-default.base",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Diary/2026-01-22.md",
     "创建物流看板.md",
     "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
     "assets/创建物流看板",
-    "assets",
-    "Project",
     "TaskNotes/Tasks/2026大二美赛准备.md",
     "TaskNotes/Tasks/准备了解比赛形式.md",
     "TaskNotes/Tasks/创建单品看板.md",
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "Diary/2026-01-21.md",
     "2026-01-21.md",
-    "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Tasks/注册microsoft365.md",
-    "Diary",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Tasks/2026大二美赛开赛.md",
     "Tools/sideloadly安裝ios 嗶咔IPA.md",
     "Tools/远程部署web教程.md",
@@ -326,7 +314,6 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "未命名.canvas"
   ]
 }
