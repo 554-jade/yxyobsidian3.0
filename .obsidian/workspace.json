@@ -25,13 +25,14 @@
             "id": "f2ceb8d6aa33d018",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/calendar-default.base",
-                "viewName": "Calendar"
+                "file": "Playlist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "calendar-default"
+              "icon": "lucide-file",
+              "title": "Playlist"
             }
           },
           {
@@ -214,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskNotes/Views/calendar-default.base",
+                "file": "Playlist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "calendar-default 的大纲"
+              "title": "Playlist 的大纲"
             }
           },
           {
@@ -289,9 +290,9 @@
   },
   "active": "f2ceb8d6aa33d018",
   "lastOpenFiles": [
+    "TaskNotes/Views/calendar-default.base",
     "2026-02-04.md",
     "TaskNotes/Tasks/创建物流看板.md",
-    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/kanban-default.base",
     "Playlist.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
