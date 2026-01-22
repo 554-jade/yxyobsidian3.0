@@ -436,12 +436,24 @@
     ]
   },
   "pomodoroState": {
-    "isRunning": false,
+    "isRunning": true,
     "timeRemaining": 1500,
-    "nextSessionType": "work"
+    "currentSession": {
+      "id": "1769060149663",
+      "taskPath": "TaskNotes/Tasks/创建物流看板.md",
+      "startTime": "2026-01-22T13:35:49.663+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-22T13:35:49.663+08:00"
+        }
+      ]
+    }
   },
   "lastPomodoroDate": "2026-01-21",
-  "lastSelectedTaskPath": "TaskNotes/Tasks/注册microsoft365.md",
+  "lastSelectedTaskPath": "TaskNotes/Tasks/创建物流看板.md",
   "pomodoroHistory": [
     {
       "id": "1768984401847",
