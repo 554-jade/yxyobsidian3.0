@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playlist.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Playlist 的大纲"
+              "title": "Translate to Chinese 的大纲"
             }
           },
           {
@@ -288,13 +288,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55897c94c35b257f",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "Playlist.md",
     "TaskNotes/Views/calendar-default.base",
     "2026-02-04.md",
     "TaskNotes/Tasks/创建物流看板.md",
     "TaskNotes/Views/kanban-default.base",
-    "Playlist.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Diary/2026-01-22.md",
     "创建物流看板.md",
