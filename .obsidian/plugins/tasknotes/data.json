@@ -437,16 +437,17 @@
   },
   "pomodoroState": {
     "isRunning": true,
-    "timeRemaining": 300,
+    "timeRemaining": 2400,
     "currentSession": {
-      "id": "1769136859646",
-      "startTime": "2026-01-23T10:54:19.646+08:00",
-      "plannedDuration": 5,
-      "type": "short-break",
+      "id": "1769137047096",
+      "taskPath": "TaskNotes/Tasks/创建单品看板.md",
+      "startTime": "2026-01-23T10:57:27.096+08:00",
+      "plannedDuration": 40,
+      "type": "work",
       "completed": false,
       "activePeriods": [
         {
-          "startTime": "2026-01-23T10:54:19.646+08:00"
+          "startTime": "2026-01-23T10:57:27.096+08:00"
         }
       ]
     }
@@ -673,6 +674,20 @@
         {
           "startTime": "2026-01-23T09:24:18.273+08:00",
           "endTime": "2026-01-23T10:54:18.284+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1769136859646",
+      "startTime": "2026-01-23T10:54:19.646+08:00",
+      "endTime": "2026-01-23T10:57:14.658+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-23T10:54:19.646+08:00",
+          "endTime": "2026-01-23T10:57:14.659+08:00"
         }
       ]
     }
