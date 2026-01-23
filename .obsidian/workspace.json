@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "创建单品看板 的反向链接列表"
+              "title": "Translate to Chinese 的反向链接列表"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "创建单品看板 的出链列表"
+              "title": "Translate to Chinese 的出链列表"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "创建单品看板 的大纲"
+              "title": "Translate to Chinese 的大纲"
             }
           },
           {
@@ -213,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md"
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md"
               },
               "icon": "lucide-info",
-              "title": "创建单品看板的笔记属性"
+              "title": "Translate to Chinese的笔记属性"
             }
           }
         ],
@@ -273,10 +273,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "905d0c771c64fee8",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "TaskNotes/Tasks/创建单品看板.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "TaskNotes/Tasks/创建物流看板.md",
     "Tools/远程部署web教程.md",
     "Tools/Antigravity：Agent terminated due to error.md",
