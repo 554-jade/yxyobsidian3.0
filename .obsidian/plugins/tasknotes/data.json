@@ -436,23 +436,12 @@
     ]
   },
   "pomodoroState": {
-    "isRunning": true,
-    "timeRemaining": 900,
-    "currentSession": {
-      "id": "1769082956473",
-      "startTime": "2026-01-22T19:55:56.473+08:00",
-      "plannedDuration": 15,
-      "type": "long-break",
-      "completed": false,
-      "activePeriods": [
-        {
-          "startTime": "2026-01-22T19:55:56.473+08:00"
-        }
-      ]
-    }
+    "isRunning": false,
+    "timeRemaining": 5400,
+    "nextSessionType": "work"
   },
-  "lastPomodoroDate": "2026-01-21",
-  "lastSelectedTaskPath": "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
+  "lastPomodoroDate": "2026-01-22",
+  "lastSelectedTaskPath": "TaskNotes/Tasks/创建单品看板.md",
   "pomodoroHistory": [
     {
       "id": "1768984401847",
@@ -644,6 +633,20 @@
         {
           "startTime": "2026-01-22T18:15:56.417+08:00",
           "endTime": "2026-01-22T19:55:55.175+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1769082956473",
+      "startTime": "2026-01-22T19:55:56.473+08:00",
+      "endTime": "2026-01-23T02:33:30.127+08:00",
+      "plannedDuration": 15,
+      "type": "long-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-22T19:55:56.473+08:00",
+          "endTime": "2026-01-23T02:33:30.127+08:00"
         }
       ]
     }
