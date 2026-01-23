@@ -10,15 +10,16 @@
           {
             "id": "905d0c771c64fee8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md",
-                "mode": "source",
-                "source": false
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
               },
-              "icon": "lucide-file",
-              "title": "创建单品看板"
+              "pinned": true,
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           },
           {
@@ -33,7 +34,8 @@
               "title": "2025年三天拿下数学建模美赛M奖【公众号：数模加油站】"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +145,7 @@
       {
         "id": "805bdf650acbec39",
         "type": "tabs",
-        "dimension": 58.77777777777777,
+        "dimension": 41.620771046420145,
         "children": [
           {
             "id": "f9e92368b2bef6c5",
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md",
+                "file": "TaskNotes/Views/kanban-default.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "创建单品看板 的反向链接列表"
+              "title": "kanban-default 的反向链接列表"
             }
           },
           {
@@ -170,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md",
+                "file": "TaskNotes/Views/kanban-default.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "创建单品看板 的出链列表"
+              "title": "kanban-default 的出链列表"
             }
           },
           {
@@ -198,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md",
+                "file": "TaskNotes/Views/kanban-default.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "创建单品看板 的大纲"
+              "title": "kanban-default 的大纲"
             }
           },
           {
@@ -213,10 +215,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TaskNotes/Tasks/创建单品看板.md"
+                "file": "TaskNotes/Views/kanban-default.base"
               },
               "icon": "lucide-info",
-              "title": "创建单品看板的笔记属性"
+              "title": "kanban-default的笔记属性"
             }
           }
         ],
@@ -225,7 +227,7 @@
       {
         "id": "f54abc0996f34e35",
         "type": "tabs",
-        "dimension": 41.22222222222222,
+        "dimension": 58.37922895357986,
         "children": [
           {
             "id": "3ffd72ce335bedf4",
@@ -275,11 +277,13 @@
   },
   "active": "905d0c771c64fee8",
   "lastOpenFiles": [
-    "TaskNotes/Tasks/2026大二美赛开赛.md",
-    "2026-01-23.md",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Tasks/创建单品看板.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "TaskNotes/Tasks/创建物流看板.md",
+    "TaskNotes/Tasks/2026大二美赛开赛.md",
+    "Diary/2026-01-23.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "Tools/远程部署web教程.md",
     "Tools/Antigravity：Agent terminated due to error.md",
     "Tools/mac下载antigravity.md",
@@ -299,7 +303,6 @@
     "Playlist.md",
     "Project/美赛/美赛AI速成.pdf",
     "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
-    "Project/美赛/准备/美赛AI速成.pdf",
     "2026-02-04.md",
     "未命名.md",
     "Diary/2026-01-22.md",
@@ -313,7 +316,6 @@
     "TaskNotes/Tasks/注册microsoft365.md",
     "copilot/copilot-conversations/hello@20260121_120015.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "未命名.canvas"
   ]
 }
