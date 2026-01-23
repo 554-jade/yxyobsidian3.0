@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/obsidian远端同步步骤.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "obsidian远端同步步骤 的反向链接列表"
+              "title": "Translate to Chinese 的反向链接列表"
             }
           },
           {
@@ -188,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/obsidian远端同步步骤.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "obsidian远端同步步骤 的出链列表"
+              "title": "Translate to Chinese 的出链列表"
             }
           },
           {
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/obsidian远端同步步骤.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "obsidian远端同步步骤 的大纲"
+              "title": "Translate to Chinese 的大纲"
             }
           },
           {
@@ -231,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools/obsidian远端同步步骤.md"
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md"
               },
               "icon": "lucide-info",
-              "title": "obsidian远端同步步骤的笔记属性"
+              "title": "Translate to Chinese的笔记属性"
             }
           }
         ],
@@ -291,8 +291,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74ecd37ce0f747e4",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "yxyobsidian3.0/Self-study/远程部署web教程.md",
+    "yxyobsidian3.0/Self-study/sideloadly安裝ios 嗶咔IPA.md",
+    "yxyobsidian3.0/Self-study/obsidian远端同步步骤.md",
+    "yxyobsidian3.0/Self-study/mac下载antigravity.md",
+    "yxyobsidian3.0/Self-study/GeminiCLI部署.md",
+    "yxyobsidian3.0/Self-study/Antigravity：Agent terminated due to error.md",
+    "yxyobsidian3.0/Self-study",
+    "yxyobsidian3.0",
+    "obsidian-yxy",
+    "Tools/obsidian远端同步步骤.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "未命名/Self-study/远程部署web教程.md",
     "未命名/Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "未命名/Self-study/obsidian远端同步步骤.md",
@@ -304,10 +315,8 @@
     "Project/美赛/准备/美赛提示词.md",
     "TaskNotes/Tasks/创建单品看板.md",
     "TaskNotes/Tasks/整理一下看板！.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "TaskNotes/Tasks/创建物流看板.md",
     "TaskNotes/Tasks/理清楚看板的逻辑是什么.md",
-    "Tools/obsidian远端同步步骤.md",
     "Tools/mac下载antigravity.md",
     "Tools/GeminiCLI部署.md",
     "Tools/Antigravity：Agent terminated due to error.md",
@@ -318,18 +327,9 @@
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Tasks/2026大二美赛开赛.md",
     "Diary/2026-01-23.md",
-    "Tools/obsidian设置报告.md",
-    "Tools/sideloadly安裝ios 嗶咔IPA.md",
     "TaskNotes/Tasks/assets/理清楚看板的逻辑是什么/file-20260122182413699.png",
     "TaskNotes/Tasks/assets/理清楚看板的逻辑是什么",
     "TaskNotes/Tasks/assets",
-    "创建物流看板.md",
-    "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/relationships.base",
-    "Playlist.md",
-    "2026-02-04.md",
-    "Diary/2026-01-22.md",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
     "未命名.canvas"
