@@ -436,9 +436,21 @@
     ]
   },
   "pomodoroState": {
-    "isRunning": false,
+    "isRunning": true,
     "timeRemaining": 5400,
-    "nextSessionType": "work"
+    "currentSession": {
+      "id": "1769131458273",
+      "taskPath": "TaskNotes/Tasks/创建单品看板.md",
+      "startTime": "2026-01-23T09:24:18.273+08:00",
+      "plannedDuration": 90,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-01-23T09:24:18.273+08:00"
+        }
+      ]
+    }
   },
   "lastPomodoroDate": "2026-01-22",
   "lastSelectedTaskPath": "TaskNotes/Tasks/创建单品看板.md",
