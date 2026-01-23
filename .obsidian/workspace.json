@@ -277,8 +277,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ceb8d6aa33d018",
+  "active": "792b3334c3a125b5",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/整理一下看板！.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "TaskNotes/Tasks/创建单品看板.md",
     "TaskNotes/Tasks/创建物流看板.md",
@@ -317,7 +318,6 @@
     "2026-01-21.md",
     "TaskNotes/Tasks/注册microsoft365.md",
     "copilot/copilot-conversations/hello@20260121_120015.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "未命名.canvas"
   ]
 }
