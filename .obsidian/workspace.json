@@ -26,12 +26,14 @@
             "id": "f2ceb8d6aa33d018",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf"
+                "file": "Tools/obsidian远端同步步骤.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2025年三天拿下数学建模美赛M奖【公众号：数模加油站】"
+              "icon": "lucide-file",
+              "title": "obsidian远端同步步骤"
             }
           }
         ],
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
+                "file": "Tools/obsidian远端同步步骤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "kanban-default 的反向链接列表"
+              "title": "obsidian远端同步步骤 的反向链接列表"
             }
           },
           {
@@ -172,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
+                "file": "Tools/obsidian远端同步步骤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "kanban-default 的出链列表"
+              "title": "obsidian远端同步步骤 的出链列表"
             }
           },
           {
@@ -200,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
+                "file": "Tools/obsidian远端同步步骤.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "kanban-default 的大纲"
+              "title": "obsidian远端同步步骤 的大纲"
             }
           },
           {
@@ -215,10 +217,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base"
+                "file": "Tools/obsidian远端同步步骤.md"
               },
               "icon": "lucide-info",
-              "title": "kanban-default的笔记属性"
+              "title": "obsidian远端同步步骤的笔记属性"
             }
           }
         ],
@@ -275,18 +277,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "905d0c771c64fee8",
+  "active": "f2ceb8d6aa33d018",
   "lastOpenFiles": [
+    "Tools/mac下载antigravity.md",
+    "Tools/GeminiCLI部署.md",
+    "Tools/Antigravity：Agent terminated due to error.md",
+    "Tools/远程部署web教程.md",
+    "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Tasks/创建单品看板.md",
     "TaskNotes/Tasks/创建物流看板.md",
     "TaskNotes/Tasks/2026大二美赛开赛.md",
     "Diary/2026-01-23.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "Tools/远程部署web教程.md",
-    "Tools/Antigravity：Agent terminated due to error.md",
-    "Tools/mac下载antigravity.md",
     "Tools/obsidian设置报告.md",
     "Tools/sideloadly安裝ios 嗶咔IPA.md",
     "Tools/obsidian远端同步步骤.md",
@@ -296,13 +301,11 @@
     "TaskNotes/Tasks/assets",
     "创建物流看板.md",
     "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
     "Playlist.md",
     "Project/美赛/美赛AI速成.pdf",
-    "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
     "2026-02-04.md",
     "未命名.md",
     "Diary/2026-01-22.md",
@@ -310,7 +313,6 @@
     "assets/创建物流看板/file-20260121173924244.png",
     "TaskNotes/Tasks/2026大二美赛准备.md",
     "TaskNotes/Tasks/准备了解比赛形式.md",
-    "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "Diary/2026-01-21.md",
     "2026-01-21.md",
     "TaskNotes/Tasks/注册microsoft365.md",
