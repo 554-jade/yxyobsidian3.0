@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/obsidian远端同步步骤.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "obsidian远端同步步骤 的反向链接列表"
+              "title": "Translate to Chinese 的反向链接列表"
             }
           },
           {
@@ -188,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/obsidian远端同步步骤.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "obsidian远端同步步骤 的出链列表"
+              "title": "Translate to Chinese 的出链列表"
             }
           },
           {
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/obsidian远端同步步骤.md",
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "obsidian远端同步步骤 的大纲"
+              "title": "Translate to Chinese 的大纲"
             }
           },
           {
@@ -231,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools/obsidian远端同步步骤.md"
+                "file": "copilot/copilot-custom-prompts/Translate to Chinese.md"
               },
               "icon": "lucide-info",
-              "title": "obsidian远端同步步骤的笔记属性"
+              "title": "Translate to Chinese的笔记属性"
             }
           }
         ],
@@ -291,8 +291,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "792b3334c3a125b5",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "Tools/obsidian远端同步步骤.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "ob",
     "yxyobsidian3.0/Self-study/远程部署web教程.md",
@@ -304,7 +305,6 @@
     "yxyobsidian3.0/Self-study",
     "yxyobsidian3.0",
     "obsidian-yxy",
-    "Tools/obsidian远端同步步骤.md",
     "未命名/Self-study/远程部署web教程.md",
     "未命名/Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "未命名/Self-study/obsidian远端同步步骤.md",
