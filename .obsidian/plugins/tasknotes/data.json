@@ -437,17 +437,21 @@
   },
   "pomodoroState": {
     "isRunning": true,
-    "timeRemaining": 1500,
+    "timeRemaining": 2841,
     "currentSession": {
       "id": "1769148557599",
-      "taskPath": "TaskNotes/Tasks/2026大二美赛准备.md",
+      "taskPath": "TaskNotes/Tasks/创建单品看板.md",
       "startTime": "2026-01-23T14:09:17.598+08:00",
-      "plannedDuration": 25,
+      "plannedDuration": 65,
       "type": "work",
       "completed": false,
       "activePeriods": [
         {
-          "startTime": "2026-01-23T14:09:17.598+08:00"
+          "startTime": "2026-01-23T14:09:17.598+08:00",
+          "endTime": "2026-01-23T14:26:56.151+08:00"
+        },
+        {
+          "startTime": "2026-01-23T14:27:09.641+08:00"
         }
       ]
     }
@@ -763,5 +767,5 @@
       ]
     }
   ],
-  "lastSelectedTaskPath": "TaskNotes/Tasks/2026大二美赛准备.md"
+  "lastSelectedTaskPath": "TaskNotes/Tasks/创建单品看板.md"
 }
