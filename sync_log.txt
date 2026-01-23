@@ -1,7 +1,0 @@
-/bin/bash: /Users/yixinyue/Documents/GitHub/yxyobsidian3.0/sync_obsidian.sh: Operation not permitted
-/bin/bash: /Users/yixinyue/Documents/GitHub/yxyobsidian3.0/sync_obsidian.sh: Operation not permitted
-/bin/bash: /Users/yixinyue/Documents/GitHub/yxyobsidian3.0/sync_obsidian.sh: Operation not permitted
-/bin/bash: /Users/yixinyue/Documents/GitHub/yxyobsidian3.0/sync_obsidian.sh: Operation not permitted
-/bin/bash: /Users/yixinyue/Documents/GitHub/yxyobsidian3.0/sync_obsidian.sh: Operation not permitted
-/bin/bash: /Users/yixinyue/Documents/GitHub/yxyobsidian3.0/sync_obsidian.sh: Operation not permitted
-/bin/bash: /Users/yixinyue/Documents/GitHub/yxyobsidian3.0/sync_obsidian.sh: Operation not permitted
