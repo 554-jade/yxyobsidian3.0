@@ -293,6 +293,7 @@
   },
   "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "sync_log.txt",
     "Google Gemini.html",
     "sync_obsidian.sh",
     "新建文件.txt",
@@ -327,7 +328,6 @@
     "Tools/远程部署web教程.md",
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Tasks/2026大二美赛开赛.md",
     "TaskNotes/Tasks/assets/理清楚看板的逻辑是什么/file-20260122182413699.png",
     "assets/创建物流看板/file-20260121173932395.png",
