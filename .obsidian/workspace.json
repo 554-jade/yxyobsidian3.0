@@ -197,11 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "未命名/Self-study/obsidian远端同步步骤.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "obsidian远端同步步骤的笔记属性"
+              "title": "笔记属性"
             }
           },
           {
@@ -273,13 +271,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ffd72ce335bedf4",
+  "active": "66a66efed0eaba23",
   "lastOpenFiles": [
-    "2026-01-25.md",
     "未命名/Self-study/obsidian远端同步步骤.md",
+    "Diary/2026-01-25.md",
     "TaskNotes/Views/mini-calendar-default.base",
     "未命名/Self-study/远程部署web教程.md",
-    "2026-01-24.md",
+    "Diary/2026-01-24.md",
     "Tools/远程部署web教程.md",
     "Tools/Antigravity：Agent terminated due to error.md",
     "Tools/obsidian远端同步步骤.md",
