@@ -23,12 +23,14 @@
             "id": "150760fba2067085",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf"
+                "file": "美赛相关准备.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2026年美赛零基础备赛攻略速成"
+              "icon": "lucide-file",
+              "title": "美赛相关准备"
             }
           }
         ],
@@ -212,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf"
+                "file": "美赛相关准备.md"
               },
               "icon": "lucide-info",
-              "title": "2026年美赛零基础备赛攻略速成的笔记属性"
+              "title": "美赛相关准备的笔记属性"
             }
           },
           {
@@ -289,11 +291,11 @@
   },
   "active": "150760fba2067085",
   "lastOpenFiles": [
-    "美赛相关准备.md",
-    "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
     "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
-    "Project/美赛/准备/美赛AI速成.pdf",
     "Project/美赛/准备/美赛提示词.md",
+    "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
+    "美赛相关准备.md",
+    "Project/美赛/准备/美赛AI速成.pdf",
     "Project/美赛/准备/prompt.md",
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "assets/IMG_1382.png",
