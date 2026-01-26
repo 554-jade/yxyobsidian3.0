@@ -11,10 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "Project/美赛/准备/美赛AI速成.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "美赛AI速成"
             }
           }
         ]
@@ -115,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,9 +199,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Project/美赛/准备/美赛AI速成.pdf"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "美赛AI速成的笔记属性"
             }
           },
           {
@@ -271,8 +275,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66a66efed0eaba23",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "prompt.md",
+    "IMG_1382.png",
+    "2026-01-26.md",
+    "TaskNotes/Tasks/整理衣柜.md",
+    "TaskNotes/Tasks/态度好一点拜托拜托！.md",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/tasks-default.base",
     "未命名/Self-study/obsidian远端同步步骤.md",
     "Diary/2026-01-25.md",
     "TaskNotes/Views/mini-calendar-default.base",
@@ -299,16 +310,10 @@
     "yxyobsidian3.0/Self-study/Antigravity：Agent terminated due to error.md",
     "yxyobsidian3.0/Self-study",
     "yxyobsidian3.0",
-    "obsidian-yxy",
     "未命名/Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "未命名/Self-study/mac下载antigravity.md",
     "未命名/Self-study/GeminiCLI部署.md",
     "未命名/Self-study/Antigravity：Agent terminated due to error.md",
-    "未命名/Self-study",
-    "Project/美赛/准备/美赛提示词.md",
-    "TaskNotes/Tasks/创建单品看板.md",
-    "TaskNotes/Tasks/整理一下看板！.md",
-    "TaskNotes/Tasks/创建物流看板.md",
     "TaskNotes/Tasks/assets/理清楚看板的逻辑是什么/file-20260122182413699.png",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
