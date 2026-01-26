@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Project/美赛/准备/美赛AI速成.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "美赛AI速成"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -117,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,10 +198,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Project/美赛/准备/美赛AI速成.pdf"
+                "file": "未命名/Self-study/远程部署web教程.md"
               },
               "icon": "lucide-info",
-              "title": "美赛AI速成的笔记属性"
+              "title": "远程部署web教程的笔记属性"
             }
           },
           {
@@ -275,8 +273,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "TaskNotes/Views/mini-calendar-default.base",
+    "未命名/Self-study/远程部署web教程.md",
     "prompt.md",
     "IMG_1382.png",
     "2026-01-26.md",
@@ -286,8 +286,6 @@
     "TaskNotes/Views/tasks-default.base",
     "未命名/Self-study/obsidian远端同步步骤.md",
     "Diary/2026-01-25.md",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "未命名/Self-study/远程部署web教程.md",
     "Diary/2026-01-24.md",
     "Tools/远程部署web教程.md",
     "Tools/Antigravity：Agent terminated due to error.md",
@@ -313,7 +311,6 @@
     "未命名/Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "未命名/Self-study/mac下载antigravity.md",
     "未命名/Self-study/GeminiCLI部署.md",
-    "未命名/Self-study/Antigravity：Agent terminated due to error.md",
     "TaskNotes/Tasks/assets/理清楚看板的逻辑是什么/file-20260122182413699.png",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
