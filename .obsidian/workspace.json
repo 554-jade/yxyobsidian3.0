@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "美赛相关准备.md",
+                "file": "Tools/远程部署web教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "美赛相关准备"
+              "title": "远程部署web教程"
             }
           }
         ],
@@ -214,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "美赛相关准备.md"
+                "file": "Tools/远程部署web教程.md"
               },
               "icon": "lucide-info",
-              "title": "美赛相关准备的笔记属性"
+              "title": "远程部署web教程的笔记属性"
             }
           },
           {
@@ -291,12 +291,12 @@
   },
   "active": "150760fba2067085",
   "lastOpenFiles": [
+    "美赛相关准备.md",
     "assets/美赛相关准备/file-20260126132512772.png",
     "assets/美赛相关准备",
     "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "Project/美赛/准备/美赛提示词.md",
     "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
-    "美赛相关准备.md",
     "Project/美赛/准备/美赛AI速成.pdf",
     "Project/美赛/准备/prompt.md",
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
