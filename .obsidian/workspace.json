@@ -84,8 +84,8 @@
             "state": {
               "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-view"
+              "icon": "clock",
+              "title": "番茄钟"
             }
           },
           {
@@ -114,8 +114,7 @@
               "title": "mini-calendar-default"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,7 +270,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "792b3334c3a125b5",
   "lastOpenFiles": [
     "Playlist.md",
     "TaskNotes/Views/mini-calendar-default.base",
