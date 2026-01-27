@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "创意网站.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "创意网站"
             }
           }
         ]
@@ -196,9 +200,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "创意网站.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "创意网站的笔记属性"
             }
           },
           {
@@ -270,9 +276,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "792b3334c3a125b5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "创意网站.md",
     "Playlist.md",
+    "Diary/2026-01-27.md",
     "TaskNotes/Views/mini-calendar-default.base",
     "Tools/远程部署web教程.md",
     "美赛相关准备.md",
@@ -308,7 +316,6 @@
     "yxyobsidian3.0/Self-study/obsidian远端同步步骤.md",
     "yxyobsidian3.0/Self-study/mac下载antigravity.md",
     "yxyobsidian3.0/Self-study/GeminiCLI部署.md",
-    "yxyobsidian3.0/Self-study/Antigravity：Agent terminated due to error.md",
     "TaskNotes/Tasks/assets/理清楚看板的逻辑是什么/file-20260122182413699.png",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
