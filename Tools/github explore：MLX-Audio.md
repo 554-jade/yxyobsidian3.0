@@ -1,3 +1,8 @@
+---
+tags:
+  - 教程
+  - github
+---
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://github.com/Blaizzy/mlx-audio" target="_blank">
 	<div class="rich-link-image-container">
