@@ -15,7 +15,7 @@
 	</div>
 </a></div>
 
-![](assets/antigravity+多功能/file-20260127115240262.png)网站设置的非常好看，有视频ui效果
+![](assets/antigravity+多功能/file-20260127165750984.png)网站设置的非常好看，有视频ui效果
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=OWZr4EzQkd8" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://i.ytimg.com/vi/OWZr4EzQkd8/hqdefault.jpg')">

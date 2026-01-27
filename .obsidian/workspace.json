@@ -23,12 +23,14 @@
             "id": "347ae0090b121583",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Project/美赛/准备/数模美赛论文写作全流程分享.pdf"
+                "file": "github explore.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "数模美赛论文写作全流程分享"
+              "icon": "lucide-file",
+              "title": "github explore"
             }
           }
         ],
@@ -212,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Project/美赛/准备/数模美赛论文写作全流程分享.pdf"
+                "file": "github explore.md"
               },
               "icon": "lucide-info",
-              "title": "数模美赛论文写作全流程分享的笔记属性"
+              "title": "github explore的笔记属性"
             }
           },
           {
@@ -289,14 +291,17 @@
   },
   "active": "347ae0090b121583",
   "lastOpenFiles": [
-    "爬reddit的关键的post.md",
-    "assets/爬reddit的关键的post/file-20260127143406877.png",
+    "assets/github explore",
+    "Project/美赛/准备/antigravity+多功能.md",
+    "Project/美赛/准备/assets/antigravity+多功能",
+    "Project/美赛/准备/assets",
+    "Project/美赛/准备/数模美赛论文写作全流程分享.pdf",
+    "github explore.md",
+    "assets/github explore/file-20260127165816881.png",
     "assets/爬reddit的关键的post",
     "Project/美赛/准备/数模美赛赛前准备与编程分享.pdf",
-    "antigravity+多功能.md",
-    "Project/美赛/准备/数模美赛论文写作全流程分享.pdf",
     "assets/antigravity+多功能",
-    "assets/antigravity+多功能/file-20260127115240262.png",
+    "Project/美赛/准备/assets/antigravity+多功能/file-20260127165750984.png",
     "assets/创意网站",
     "Playlist.md",
     "Diary/2026-01-27.md",
@@ -307,8 +312,6 @@
     "assets/美赛相关准备",
     "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf",
     "Project/美赛/准备/美赛提示词.md",
-    "Project/美赛/准备/2026年美赛零基础备赛攻略速成.pdf",
-    "Project/美赛/准备/美赛AI速成.pdf",
     "Project/美赛/准备/prompt.md",
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "assets/IMG_1382.png",
