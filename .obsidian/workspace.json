@@ -18,8 +18,23 @@
               "icon": "lucide-file-text",
               "title": "数模美赛赛前准备与编程分享"
             }
+          },
+          {
+            "id": "347ae0090b121583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "爬reddit的关键的post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "爬reddit的关键的post"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Project/美赛/准备/数模美赛赛前准备与编程分享.pdf"
+                "file": "爬reddit的关键的post.md"
               },
               "icon": "lucide-info",
-              "title": "数模美赛赛前准备与编程分享的笔记属性"
+              "title": "爬reddit的关键的post的笔记属性"
             }
           },
           {
@@ -274,10 +289,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "347ae0090b121583",
   "lastOpenFiles": [
-    "antigravity+多功能.md",
+    "assets/爬reddit的关键的post/file-20260127143406877.png",
+    "assets/爬reddit的关键的post",
     "Project/美赛/准备/数模美赛赛前准备与编程分享.pdf",
+    "爬reddit的关键的post.md",
+    "antigravity+多功能.md",
     "Project/美赛/准备/数模美赛论文写作全流程分享.pdf",
     "assets/antigravity+多功能",
     "assets/antigravity+多功能/file-20260127115240262.png",
@@ -300,7 +318,6 @@
     "Diary/2026-01-26.md",
     "TaskNotes/Tasks/整理衣柜.md",
     "TaskNotes/Tasks/态度好一点拜托拜托！.md",
-    "TaskNotes/Views/kanban-default.base",
     "未命名/Self-study/obsidian远端同步步骤.md",
     "Diary/2026-01-25.md",
     "Diary/2026-01-24.md",
@@ -313,7 +330,6 @@
     "yxyobsidian3.0/Self-study/远程部署web教程.md",
     "yxyobsidian3.0/Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "yxyobsidian3.0/Self-study/obsidian远端同步步骤.md",
-    "yxyobsidian3.0/Self-study/mac下载antigravity.md",
     "TaskNotes/Tasks/assets/理清楚看板的逻辑是什么/file-20260122182413699.png",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
