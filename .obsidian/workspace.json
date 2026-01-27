@@ -11,30 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Project/美赛/准备/2025年三天拿下数学建模美赛M奖【公众号：数模加油站】.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025年三天拿下数学建模美赛M奖【公众号：数模加油站】"
-            }
-          },
-          {
-            "id": "150760fba2067085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/远程部署web教程.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "远程部署web教程"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +84,8 @@
             "state": {
               "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "clock",
-              "title": "番茄钟"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
             }
           },
           {
@@ -131,7 +114,8 @@
               "title": "mini-calendar-default"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -213,11 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Tools/远程部署web教程.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "远程部署web教程的笔记属性"
+              "title": "笔记属性"
             }
           },
           {
@@ -289,8 +271,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "150760fba2067085",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Playlist.md",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "Tools/远程部署web教程.md",
     "美赛相关准备.md",
     "assets/美赛相关准备/file-20260126132512772.png",
     "assets/美赛相关准备",
@@ -302,7 +287,6 @@
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "assets/IMG_1382.png",
     "未命名/Self-study/远程部署web教程.md",
-    "TaskNotes/Views/mini-calendar-default.base",
     "Diary/2026-01-26.md",
     "TaskNotes/Tasks/整理衣柜.md",
     "TaskNotes/Tasks/态度好一点拜托拜托！.md",
@@ -311,10 +295,8 @@
     "未命名/Self-study/obsidian远端同步步骤.md",
     "Diary/2026-01-25.md",
     "Diary/2026-01-24.md",
-    "Tools/远程部署web教程.md",
     "Tools/Antigravity：Agent terminated due to error.md",
     "Tools/obsidian远端同步步骤.md",
-    "Playlist.md",
     "Tools/mac下载antigravity.md",
     "Tools/GeminiCLI部署.md",
     "Tools/obsidian设置报告.md",
