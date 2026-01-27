@@ -23,14 +23,12 @@
             "id": "347ae0090b121583",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "爬reddit的关键的post.md",
-                "mode": "source",
-                "source": false
+                "file": "Project/美赛/准备/数模美赛论文写作全流程分享.pdf"
               },
-              "icon": "lucide-file",
-              "title": "爬reddit的关键的post"
+              "icon": "lucide-file-text",
+              "title": "数模美赛论文写作全流程分享"
             }
           }
         ],
@@ -214,10 +212,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "爬reddit的关键的post.md"
+                "file": "Project/美赛/准备/数模美赛论文写作全流程分享.pdf"
               },
               "icon": "lucide-info",
-              "title": "爬reddit的关键的post的笔记属性"
+              "title": "数模美赛论文写作全流程分享的笔记属性"
             }
           },
           {
@@ -291,10 +289,10 @@
   },
   "active": "347ae0090b121583",
   "lastOpenFiles": [
+    "爬reddit的关键的post.md",
     "assets/爬reddit的关键的post/file-20260127143406877.png",
     "assets/爬reddit的关键的post",
     "Project/美赛/准备/数模美赛赛前准备与编程分享.pdf",
-    "爬reddit的关键的post.md",
     "antigravity+多功能.md",
     "Project/美赛/准备/数模美赛论文写作全流程分享.pdf",
     "assets/antigravity+多功能",
