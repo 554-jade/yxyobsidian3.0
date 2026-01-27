@@ -27,3 +27,6 @@ command+n开一个新的terminal输入
 
 如果发现没有更新（看时间有没有更新）
 > ls -l /data/comercial/Ads_BI
+
+
+物流看板的app.py覆盖
