@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "antigravity+多功能.md",
-                "mode": "source",
-                "source": false
+                "file": "Project/美赛/准备/数模美赛赛前准备与编程分享.pdf"
               },
-              "icon": "lucide-file",
-              "title": "antigravity+多功能"
+              "icon": "lucide-file-text",
+              "title": "数模美赛赛前准备与编程分享"
             }
           }
         ]
@@ -201,10 +199,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "antigravity+多功能.md"
+                "file": "Project/美赛/准备/数模美赛赛前准备与编程分享.pdf"
               },
               "icon": "lucide-info",
-              "title": "antigravity+多功能的笔记属性"
+              "title": "数模美赛赛前准备与编程分享的笔记属性"
             }
           },
           {
@@ -278,10 +276,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "antigravity+多功能.md",
+    "Project/美赛/准备/数模美赛赛前准备与编程分享.pdf",
+    "Project/美赛/准备/数模美赛论文写作全流程分享.pdf",
     "assets/antigravity+多功能",
     "assets/antigravity+多功能/file-20260127115240262.png",
     "assets/创意网站",
-    "antigravity+多功能.md",
     "Playlist.md",
     "Diary/2026-01-27.md",
     "TaskNotes/Views/mini-calendar-default.base",
@@ -301,7 +301,6 @@
     "TaskNotes/Tasks/整理衣柜.md",
     "TaskNotes/Tasks/态度好一点拜托拜托！.md",
     "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/tasks-default.base",
     "未命名/Self-study/obsidian远端同步步骤.md",
     "Diary/2026-01-25.md",
     "Diary/2026-01-24.md",
@@ -311,8 +310,6 @@
     "Tools/GeminiCLI部署.md",
     "Tools/obsidian设置报告.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "sync_log.txt",
-    "Google Gemini.html",
     "yxyobsidian3.0/Self-study/远程部署web教程.md",
     "yxyobsidian3.0/Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "yxyobsidian3.0/Self-study/obsidian远端同步步骤.md",
