@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github explore：.md",
+                "file": "github explore：Supermemory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github explore："
+              "title": "github explore：Supermemory"
             }
           }
         ],
@@ -242,10 +242,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "github explore：.md"
+                "file": "github explore：Supermemory.md"
               },
               "icon": "lucide-info",
-              "title": "github explore：的笔记属性"
+              "title": "github explore：Supermemory的笔记属性"
             }
           },
           {
@@ -320,7 +320,7 @@
   "active": "9154c3ec9a9452f2",
   "lastOpenFiles": [
     "Tools/github explore：PageIndex.md",
-    "github explore：.md",
+    "github explore：Supermemory.md",
     "Tools/github explore：MLX-Audio.md",
     "Tools/assets/github explore：MLX-Audio",
     "Tools/assets",
