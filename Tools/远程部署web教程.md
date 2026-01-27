@@ -29,4 +29,10 @@ command+n开一个新的terminal输入
 > ls -l /data/comercial/Ads_BI
 
 
-物流看板的app.py覆盖
+> 物流看板的app.py覆盖
+> # 上传 app.py
+> scp "/Users/yixinyue/Desktop/物流看板/app.py" root@10.168.100.11:/data/express_dashboard/
+> 
+> # 上传 sql_queries.py
+> scp "/Users/yixinyue/Desktop/物流看板/sql_queries.py" root@10.168.100.11:/data/express_dashboard/
+> 
