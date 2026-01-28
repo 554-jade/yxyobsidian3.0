@@ -242,10 +242,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools/github explore：Supermemory.md"
+                "file": "Playlist.md"
               },
               "icon": "lucide-info",
-              "title": "github explore：Supermemory的笔记属性"
+              "title": "Playlist的笔记属性"
             }
           },
           {
@@ -317,10 +317,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66a66efed0eaba23",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
-    "Tools/github explore：PageIndex.md",
+    "2026-01-28.md",
     "Tools/github explore：Supermemory.md",
+    "Tools/github explore：PageIndex.md",
     "Tools/github explore：MLX-Audio.md",
     "Tools/assets/github explore：MLX-Audio",
     "Tools/assets",
@@ -358,7 +359,6 @@
     "Tools/obsidian设置报告.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "yxyobsidian3.0/Self-study/远程部署web教程.md",
-    "yxyobsidian3.0/Self-study/sideloadly安裝ios 嗶咔IPA.md",
     "TaskNotes/Tasks/assets/理清楚看板的逻辑是什么/file-20260122182413699.png",
     "assets/创建物流看板/file-20260121173932395.png",
     "assets/创建物流看板/file-20260121173924244.png",
