@@ -242,10 +242,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tools/远程部署web教程.md"
+                "file": "Playlist.md"
               },
               "icon": "lucide-info",
-              "title": "远程部署web教程的笔记属性"
+              "title": "Playlist的笔记属性"
             }
           },
           {
@@ -317,8 +317,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9154c3ec9a9452f2",
+  "active": "3ffd72ce335bedf4",
   "lastOpenFiles": [
+    "Tools/远程部署web教程.md",
     "Tools/教程：在 Obsidian 中集成 Open WebUI 作为 AI 聊天中心.md",
     "Tools/github explore：Supermemory.md",
     "Playlist.md",
@@ -339,7 +340,6 @@
     "assets/antigravity+多功能",
     "Project/美赛/准备/assets/antigravity+多功能/file-20260127165750984.png",
     "Diary/2026-01-27.md",
-    "Tools/远程部署web教程.md",
     "美赛相关准备.md",
     "assets/美赛相关准备/file-20260126132512772.png",
     "Project/美赛/准备/美赛提示词.md",
