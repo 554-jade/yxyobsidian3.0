@@ -13,7 +13,7 @@ command+n开一个新的terminal输入
 > scp /你的文件路径/文件名 root@10.168.100.11:/data/comercial（注意一次只能上传一个路径）
 
 > # 1. 覆盖内层文件夹的 app.py
-> scp "/Users/yixinyue/Desktop/广告看板制作/Ads_BI/app.py" root@10.168.100.11:/data/comercial/Ads_BI/
+> scp "/Users/yixinyue/Desktop/工作相关/广告看板制作/Ads_BI/app.py" root@10.168.100.11:/data/comercial/Ads_BI/
 > 
 > # 2. 覆盖内层文件夹的 CSV 数据
 > scp "/Users/yixinyue/Desktop/广告看板制作/Ads_BI/优化师账号维度目标.csv" root@10.168.100.11:/data/comercial/Ads_BI/
